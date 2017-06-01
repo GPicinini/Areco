@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/03/21 18:17:00.000.836,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/21 18:24:15.000.515,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/22 15:16:52.000.996,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 13:28:55.000.771,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/17 23:45:11.000.788,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/17 16:24:54.000.066,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/17 16:30:32.000.936,C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\uMain.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/17 16:30:32.000.936,C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\uMain.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/05/17 16:30:40.000.455,C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\Teste_Areco.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/05/17 22:23:51.000.505,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\Unit1.pas</Transaction>
+    <Transaction>2017/05/17 22:24:26.000.131,C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Teste\uTProduto.pas</Transaction>
+  </Transactions>
+</BorlandProject>
